@@ -1,7 +1,7 @@
 # Simple Note Project 📝
 
 ![Responsive Web Design](assets/Responsive%20Web%20Design.png) 
-![Javascript](assets/Javascript.png) 
+![Javascript](assets/JavaScript.png) 
 
 ## Project Overview:
 The **Simple Note Project** is a basic note-taking web application built with **HTML**, **CSS**, and **JavaScript**. This project demonstrates how to manipulate the Document Object Model (DOM) by adding, deleting, and changing the text color of notes.
